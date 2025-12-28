@@ -1,0 +1,9 @@
+{
+  "name": "Muntaha AI",
+  "description": "Advanced AI Assistant with Chat, Video/Audio Calls, Image Editing, Code Execution, and Domain Purchasing features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
